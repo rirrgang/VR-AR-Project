@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrarproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Schule\\Fachhochschule Schmalkhalden\\8. Semester\\AR-VR\\VR-AR-Projekt\\unity\\VR-AR-Project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-AR-Project [Testing]"
+        }
+      }
+    }
+  ]
+}
