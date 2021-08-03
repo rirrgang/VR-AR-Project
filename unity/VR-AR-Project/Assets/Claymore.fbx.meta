@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Leather
-    second: {fileID: 2100000, guid: 3d2f190315c91ea4a9cd8fac1b069164, type: 2}
+    second: {fileID: 2100000, guid: 8526b2c4a6083d94ab2b1843cc62f551, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Metal
-    second: {fileID: 2100000, guid: b8c87e270f8f0594ebaa4e6d641b84c9, type: 2}
+    second: {fileID: 2100000, guid: 9fdc70f37754a5243b512af98d8c5818, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ruby
-    second: {fileID: 2100000, guid: 70fa16977d6f7a14683cfbfe1948d086, type: 2}
+    second: {fileID: 2100000, guid: b255ae121a8b69e40963f3fc473dea62, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
